@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"C:/Users/dflynn/Documents/Engineering36/MutablePipeline1/Day5/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/dflynn/Documents/Engineering36/MutablePipeline1/Day5","disabled":false,"__vagrantfile":true}}}
